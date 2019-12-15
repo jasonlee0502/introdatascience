@@ -69,9 +69,9 @@ dashboardPage(title = "WQD7001 Group Project",
                   
                   hr(),
                   menuItem("Source code", icon = icon("file-code-o"), 
-                           href = ""),
+                           href = "https://github.com/jasonlee0502/introdatascience/tree/master/WQD7001%20Shiny%20Project"),
                   menuItem("Bug Reports", icon = icon("bug"),
-                           href = "")
+                           href = "https://github.com/jasonlee0502/introdatascience/issues")
                 )
               ),
               
